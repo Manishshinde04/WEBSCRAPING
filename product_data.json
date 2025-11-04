@@ -1,0 +1,26 @@
+{
+    "B0D5DFR78J": {
+        "name": "ASUS TUF Gaming A15, AMD Ryzen 7 7435HS Gaming Laptop(NVIDIA RTX 3050-4GB/60W TGP/16GB RAM/512GB SSD/FHD/15.6\"/144Hz/RGB KB/48WHr/Windows 11//Graphite Black/2.30 Kg) FA506NCR-HN054W",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Aw8+krn+L._SY300_SX300_QL70_FMwebp_.jpg",
+        "url": "https://www.amazon.in/dp/B0D5DFR78J/?_encoding=UTF8&ref_=cct_cg_Header_2a1",
+        "lastPriceINR": 70990.0,
+        "priceHistory": [
+            {
+                "timestamp": "2025-11-04T23:30:01.767524",
+                "price_inr": 70990.0
+            }
+        ]
+    },
+    "B0FB8Q5258": {
+        "name": "Lenovo IdeaPad Flex 5 AMD Ryzen 5 5625U (16GB RAM/512GB SSD/14 (35.5cm)/WUXGA IPS/Windows 11/Office Home 2024/Lenovo Digital Pen/1Yr ADP/Grey/1.5Kg), 82XX00G4IN Convertible Laptop",
+        "imageUrl": "https://m.media-amazon.com/images/I/41zL2XUverL._SY300_SX300_QL70_FMwebp_.jpg",
+        "url": "https://www.amazon.in/dp/B0FB8Q5258/ref=sspa_dk_detail_5?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "lastPriceINR": 73490.0,
+        "priceHistory": [
+            {
+                "timestamp": "2025-11-04T23:30:31.360690",
+                "price_inr": 73490.0
+            }
+        ]
+    }
+}
