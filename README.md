@@ -11,9 +11,7 @@ A real-time Amazon product price tracker built with a Python (Flask) backend and
 
 > **Note:** Replace this static image with an animated GIF!
 > A great free tool for this is [ScreenToGif](https://www.screentogif.com/). Just record your screen showing the app load, then tracking a new product.
-
-![PricePulse Dashboard Screenshot](image_ad245f.png)
-
+https://drive.google.com/drive/folders/13F6WHZ484ucAfSr5gkxWjE16hvYhaQei
 ---
 
 ## 🛠 Tech Stack
